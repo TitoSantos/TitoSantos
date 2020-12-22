@@ -6,6 +6,6 @@
 
 ### About me
 
-I'm a {Professional TI, passionate about technology} Graduation in database and virtualization.
+I'm a {Professional TI and passionate about technology}. Graduation in database and virtualization in Estacio de Sa University.
 
-- [Courses] - Desenvolvedor BI, Lógica de programação orientada a objetos com Visual Studio, Power BI
+- [Courses] - BI developer, Object-oriented programming logic with Visual Studio and Power BI developer.
