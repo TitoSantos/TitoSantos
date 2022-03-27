@@ -7,6 +7,6 @@
 
 ### About me
 
-I'm a {Professional TI and passionate about technology}. Graduation in database and virtualization in Estacio de Sa University. I love to learn and contribute in any and every possible way. 
+I'm a {Professional TI and passionate about technology}. Graduation in database and virtualization in Estacio de Sa University. I love to learn and contribute in any and every possible way. I work in the software quality area focused on automated API, web and desktop tests. I've worked with several technologies and programming languages, among them, python, java script, c#, robot framework and others. 
 
-- [Courses] - BI developer, Object-oriented programming logic with Visual Studio and Power BI developer.
+- [Courses] - BI developer, Object-oriented programming logic with Visual Studio, Robot Framework, TestComplete.
